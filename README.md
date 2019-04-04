@@ -1,1 +1,1 @@
-# python-img-script
+This is a python script I wrote to take an image and the resize the image, add an overlay on the bottom and then place text on top of that overlay. Once all of that is done it should then return the modified image.
